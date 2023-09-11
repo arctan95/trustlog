@@ -1,0 +1,9 @@
+[package]
+name = "trustlog-common"
+version = "0.1.0"
+authors = ["arctan95 <jaeqentan@gmail.com>"]
+edition = "2021"
+publish = false
+
+
+[dependencies]
